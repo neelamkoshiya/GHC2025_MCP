@@ -28,7 +28,7 @@ These resources collectively explain MCP's technical implementation across diffe
 * [Korean language - MCP with Amazon Q workshops ](https://catalog.workshops.aws/supercharge-pgops-aws-ai/ko-KR)
 * [Using AI with MCP to Prototype and Manage Your Live Streaming Applications](https://catalog.us-east-1.prod.workshops.aws/workshops/e978c0a6-a5bc-4857-95ec-80904014766c/en-US/300-setup)
 * [Amazon Q Developer CLI & MCP Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/1c5f0388-d234-49ac-a3c1-2d9a6044500b/en-US)
-* [Automating security reviews with SecKiro, an MCP for Amazon's intelligent IDE](https://catalog.us-east-1.prod.workshops.aws/workshops/a1fbfb2a-61d8-4a19-9d1c-dcb38efa345c/en-US}
+* [Automating security reviews with SecKiro, an MCP for Amazon's intelligent IDE](https://catalog.us-east-1.prod.workshops.aws/workshops/a1fbfb2a-61d8-4a19-9d1c-dcb38efa345c/en-US)
 * [Agentic developer experience with Amazon EKS](https://catalog.us-east-1.prod.workshops.aws/workshops/8dd4a19a-8bf5-4680-b55e-ba6072c37631/en-US)
 * [Vibe Coding with AWS MCP Server](https://catalog.us-east-1.prod.workshops.aws/workshops/33b9f640-2cab-47f0-bfdd-d3aab3c38eee/en-US)
 * [Building MCP Servers with Python](https://catalog.us-east-1.prod.workshops.aws/workshops/efa89eb2-ceb9-4e84-ae99-6b6d0e4a7276/en-US)
