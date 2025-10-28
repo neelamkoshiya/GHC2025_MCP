@@ -3,7 +3,7 @@ MCP resources for GHC 2025
 
 The Model Context Protocol (MCP) represents a significant advancement in AI development, providing standardized guidelines for how AI models should interpret and respond to context during interactions.
 
-These resources collectively explain MCP's technical implementation across different platforms (including Anthropic and Hugging Face's approaches) and its practical applications in improving AI reliability and safety through better context handling.
+These resources collectively explain MCP's technical implementation across different platforms and its practical applications in improving AI reliability and safety through better context handling.
 
 * [Anthropic - Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [Hugging Face Blog - MCP](https://huggingface.co/blog/Kseniase/mcp)
