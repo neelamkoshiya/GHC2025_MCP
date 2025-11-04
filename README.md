@@ -18,6 +18,9 @@ These resources collectively explain MCP's technical implementation across diffe
 ## MCP tutorial workshop
 [workshop link](https://catalog.us-east-1.prod.workshops.aws/workshops/ccdbbc41-fa91-4d5b-b4dc-ac27f42406a6/en-US/10-introduction)
 
+## GHC MCP Demo code
+[code and demo recording link](https://github.com/neelamkoshiya/MCPDemo/tree/main)
+
 ## AWS Workshops
 
 * [The MCP Workshop - MCP with Amazon Q](https://catalog.us-east-1.prod.workshops.aws/workshops/ccdbbc41-fa91-4d5b-b4dc-ac27f42406a6/en-US)
