@@ -18,7 +18,9 @@ These resources collectively explain MCP's technical implementation across diffe
 ## MCP tutorial workshop
 * [workshop link](https://catalog.us-east-1.prod.workshops.aws/workshops/ccdbbc41-fa91-4d5b-b4dc-ac27f42406a6/en-US/10-introduction)
 
-* [Walkthrough Video](https://github.com/neelamkoshiya/GHC2025_MCP/blob/main/MCP-QDev-Part1.mp4)
+* [Walkthrough Video Part 1](https://github.com/neelamkoshiya/GHC2025_MCP/blob/main/MCP-QDev-Part1.mp4)
+
+* [Walkthrough Video Part 2](https://github.com/neelamkoshiya/GHC2025_MCP/blob/main/MCP-QDev-Part2.mp4)
 
 ## GHC MCP Demo code
 [code and demo recording link](https://github.com/neelamkoshiya/MCPDemo/tree/main)
